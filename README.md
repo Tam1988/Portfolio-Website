@@ -7,9 +7,8 @@ This is a personal portfolio website created to showcase my skills, projects, an
 - **Projects Section**: Showcases completed projects with descriptions and links.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+- HTML
+- CSS
 
 ## How to View
 To access the website, clone this repository and open the `index.html` file in any browser:
