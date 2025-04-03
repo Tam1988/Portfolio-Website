@@ -9,8 +9,3 @@ This is a personal portfolio website created to showcase my skills, projects, an
 ## Technologies Used
 - HTML
 - CSS
-
-## How to View
-To access the website, clone this repository and open the `index.html` file in any browser:
-```bash
-git clone https://github.com/your-username/portfolio-website.git
