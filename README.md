@@ -9,3 +9,4 @@ This is a personal portfolio website created to showcase my skills, projects, an
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript 
